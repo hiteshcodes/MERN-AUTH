@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+# backend server
+/server/node_modules
+/server/.env
+
 # production
 /build
 
