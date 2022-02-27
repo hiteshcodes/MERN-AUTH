@@ -15,7 +15,6 @@ const Login = () => {
           password,
         }),
       });
-
       const data = await response.json();
 
       if (data.user) {
